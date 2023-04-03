@@ -20,7 +20,7 @@ subprocess.run(["./"+ clientfile_name, "--noexec", "--target", clientfile_path +
 os.chdir(clientfile_path + "BIOVIA")
 subprocess.run(["rm", "install_DSClient.sh"])
 
-os.chdir(clientfile_path + "dsv")
+os.chdir(clientfile_path + "DiscoveryStudioVisualizer")
 subprocess.run(["cp", "install_DSClient.sh", clientfile_path + "BIOVIA"])
 
 os.chdir(clientfile_path + "BIOVIA")
@@ -58,7 +58,7 @@ subprocess.run(["./config_lp_location", clientfile_path + "/BIOVIA/LicensePack/"
 
 # libpng 15
 
-os.chdir(clientfile_path + "/dsv/libpng-1.5.15")
+os.chdir(clientfile_path + "/DiscoveryStudioVisualizer/libpng-1.5.15")
 
 subprocess.run(["./configure", "--prefix=/usr/local/libpng"])
 subprocess.run(["sudo", "make" ,"install"])
