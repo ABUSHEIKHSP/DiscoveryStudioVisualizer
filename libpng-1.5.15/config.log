@@ -493,8 +493,8 @@ conftest.c:53:6: warning: conflicting types for built-in function 'pow'; expecte
 conftest.c:41:1: note: 'pow' is declared in header '<math.h>'
    40 | # include <limits.h>
    41 | #else
-/usr/bin/ld: /tmp/ccgzo29f.o: in function `main':
-/home/abu/dsv/libpng-1.5.15/conftest.c:64: undefined reference to `pow'
+/usr/bin/ld: /tmp/ccpV4xzv.o: in function `main':
+/home/abu/DiscoveryStudioVisualizer/libpng-1.5.15/conftest.c:64: undefined reference to `pow'
 collect2: error: ld returned 1 exit status
 configure:12474: $? = 1
 configure: failed program was:
@@ -726,7 +726,7 @@ lt_cv_to_tool_file_cmd=func_convert_file_noop
 ## Output variables. ##
 ## ----------------- ##
 
-ACLOCAL='${SHELL} /home/abu/dsv/libpng-1.5.15/missing aclocal-1.13'
+ACLOCAL='${SHELL} /home/abu/DiscoveryStudioVisualizer/libpng-1.5.15/missing aclocal-1.13'
 AMDEPBACKSLASH='\'
 AMDEP_FALSE='#'
 AMDEP_TRUE=''
@@ -738,9 +738,9 @@ AM_DEFAULT_VERBOSITY='1'
 AM_V='$(V)'
 AR='ar'
 AS='as'
-AUTOCONF='${SHELL} /home/abu/dsv/libpng-1.5.15/missing autoconf'
-AUTOHEADER='${SHELL} /home/abu/dsv/libpng-1.5.15/missing autoheader'
-AUTOMAKE='${SHELL} /home/abu/dsv/libpng-1.5.15/missing automake-1.13'
+AUTOCONF='${SHELL} /home/abu/DiscoveryStudioVisualizer/libpng-1.5.15/missing autoconf'
+AUTOHEADER='${SHELL} /home/abu/DiscoveryStudioVisualizer/libpng-1.5.15/missing autoheader'
+AUTOMAKE='${SHELL} /home/abu/DiscoveryStudioVisualizer/libpng-1.5.15/missing automake-1.13'
 AWK='mawk'
 CC='gcc'
 CCAS='gcc'
@@ -784,7 +784,7 @@ LTLIBOBJS=''
 MAINT='#'
 MAINTAINER_MODE_FALSE=''
 MAINTAINER_MODE_TRUE='#'
-MAKEINFO='${SHELL} /home/abu/dsv/libpng-1.5.15/missing makeinfo'
+MAKEINFO='${SHELL} /home/abu/DiscoveryStudioVisualizer/libpng-1.5.15/missing makeinfo'
 MANIFEST_TOOL=':'
 MKDIR_P='/usr/bin/mkdir -p'
 NM='/usr/bin/nm -B'
@@ -851,7 +851,7 @@ host_vendor='unknown'
 htmldir='${docdir}'
 includedir='${prefix}/include'
 infodir='${datarootdir}/info'
-install_sh='${SHELL} /home/abu/dsv/libpng-1.5.15/install-sh'
+install_sh='${SHELL} /home/abu/DiscoveryStudioVisualizer/libpng-1.5.15/install-sh'
 libdir='${exec_prefix}/lib'
 libexecdir='${exec_prefix}/libexec'
 localedir='${datarootdir}/locale'
