@@ -31,8 +31,6 @@ python based script for easy installation of Discovery Studio Visualizer for lin
 
 - If it prompt for `root password`, please `type your root password` and press `Enter`.
 
-![image](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/7976d2cd-95c1-438d-9263-f8cc044fd11d)
-
 - This will install and opens the `Discovery Studio Visualizer`.
 
 ![image](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/a4df064a-35a3-4c17-86cd-7ebb1efb3736)
