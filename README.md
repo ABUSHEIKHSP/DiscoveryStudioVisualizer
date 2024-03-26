@@ -21,11 +21,11 @@ python based script for easy installation of Discovery Studio Visualizer for lin
   
 ![Screenshot from 2024-03-26 21-11-03](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/ea79bc50-67f2-4517-83d1-30d05ec46dbd)
 
-- Then, simply press `Enter`, when it is prompted to type the number associated with the choice. No need to do anything else.
+- Then, simply press `Enter`, when it is prompted to type the number associated with the choice. You don't have to do anything else.
 
 ![image](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/8c5cf397-64b9-4ca5-91f6-8e6756082da8)
 
-- Then when it is prompted the second time, simply press `Enter` again, as you did before. No need to do anything else.
+- Then when it is prompted the second time, simply press `Enter` again, as you did before. You don't have to do anything else.
 
 ![image](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/d7b02be8-a4da-42ef-baee-097bc42c6f40)
 
