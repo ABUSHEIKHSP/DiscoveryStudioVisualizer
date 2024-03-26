@@ -23,11 +23,11 @@ python based script for easy installation of Discovery Studio Visualizer for lin
 
 - Then, simply press `Enter`, when it is prompted to type the number associated with the choice. You don't have to do anything else.
 
-![Screenshot from 2024-03-26 21-22-42](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/def17802-a30d-4006-9d7c-4ecfa82ce526)
+![Screenshot from 2024-03-26 21-22-42](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/93a2febf-e32d-49e2-8220-f007f0440094)
 
 - Then when it is prompted the second time, simply press `Enter` again, as you did before. You don't have to do anything else.
 
-![Screenshot from 2024-03-26 21-23-00](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/e0571f67-a1d8-470d-b444-719b1801c82a)
+![Screenshot from 2024-03-26 21-23-00](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/1d9d7d64-d68e-4fff-8544-ef58865643f9)
 
 - If it prompt for `root password`, please `type your root password` and press `Enter`.
 
