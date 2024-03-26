@@ -4,7 +4,7 @@ python based script for easy installation of Discovery Studio Visualizer for lin
 # **Installation**
 
 1. - Clone the github repository by using the command  ```git clone https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer.git``` in the terminal.
-   - The downloaded repository will have the name **DiscoveryStudioVisualizer**\n.
+   - The downloaded repository will have the name **DiscoveryStudioVisualizer**'\n'.
 
 
      
