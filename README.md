@@ -2,7 +2,7 @@
 python based script for easy installation of Discovery Studio Visualizer for linux
 
 # **pre-requisites**
-```pip install tk``` or ```sudo apt install tk```
+```pip install tk``` or ```sudo apt install python3-tk```
 
 # **Installation**
 
