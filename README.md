@@ -14,6 +14,12 @@ python based script for easy installation of Discovery Studio Visualizer for lin
 
 - In the Terminal run setup file by using the command ```python install_and_run.py```.
 - This will open a GUI. Navigate to the folder and select the `BIOVIA` file that ends with`Clinet.bin`
+  
 ![Screenshot from 2024-03-26 21-11-03](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/ea79bc50-67f2-4517-83d1-30d05ec46dbd)
+
+- Then, simply press `Enter` when it is prompted like this,
+
+  ![image](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/8c5cf397-64b9-4ca5-91f6-8e6756082da8)
+
 
 
