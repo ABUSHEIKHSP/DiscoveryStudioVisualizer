@@ -19,15 +19,15 @@ python based script for easy installation of Discovery Studio Visualizer for lin
 - In the Terminal run setup file by using the command ```python install_and_run.py```.
 - This will open a GUI. Navigate to the folder and select the `BIOVIA` file that ends with`Clinet.bin`
   
-![image](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/0746aeee-deae-4bed-8e5d-08866d903b38)
+![Screenshot from 2024-03-26 22-36-55](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/3f0fe390-1824-4f23-9e1e-7567e9212ca2)
 
 - Then, simply press `Enter`, when it is prompted to type the number associated with the choice. You don't have to do anything else.
 
-![image](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/8c5cf397-64b9-4ca5-91f6-8e6756082da8)
+![Screenshot from 2024-03-26 21-22-42](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/def17802-a30d-4006-9d7c-4ecfa82ce526)
 
 - Then when it is prompted the second time, simply press `Enter` again, as you did before. You don't have to do anything else.
 
-![image](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/d7b02be8-a4da-42ef-baee-097bc42c6f40)
+![Screenshot from 2024-03-26 21-23-00](https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer/assets/96288958/e0571f67-a1d8-470d-b444-719b1801c82a)
 
 - If it prompt for `root password`, please `type your root password` and press `Enter`.
 
