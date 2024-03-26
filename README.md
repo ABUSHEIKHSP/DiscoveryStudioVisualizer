@@ -1,6 +1,9 @@
 # **DiscoveryStudioVisualizer**
 python based script for easy installation of Discovery Studio Visualizer for linux
 
+# **pre-requisites**
+```pip install tk```
+
 # **Installation**
 
 - Clone the github repository by using the command  ```git clone https://github.com/ABUSHEIKHSP/DiscoveryStudioVisualizer.git``` in the terminal.
