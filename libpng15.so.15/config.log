@@ -488,7 +488,7 @@ conftest.c:53:6: warning: conflicting types for built-in function 'pow'; expecte
 conftest.c:41:1: note: 'pow' is declared in header '<math.h>'
    40 | # include <limits.h>
    41 | #else
-/usr/bin/ld: /tmp/ccIHKvIJ.o: in function `main':
+/usr/bin/ld: /tmp/ccjtPf1r.o: in function `main':
 /home/abu/DiscoveryStudioVisualizer/libpng15.so.15/conftest.c:64:(.text.startup+0xb): undefined reference to `pow'
 collect2: error: ld returned 1 exit status
 configure:12474: $? = 1
