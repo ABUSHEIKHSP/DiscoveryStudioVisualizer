@@ -41,6 +41,10 @@ class DSC_Installer():
         os.system('chmod 744 install_DSClient.sh') # Making it executable
         os.system('./install_DSClient.sh') # Running client file
 
+        # Deleting BIOVIA2024
+        os.chdir(f'{self.home}')
+        os.system(f'rm -r BIOVIA{self.year}')
+
     def lp_installer_operations(self):
 
         os.chdir(f"{self.home}BIOVIA") # Getting into BIOVIA
@@ -107,12 +111,12 @@ class DSC_Installer():
 
         os.system(f'./{file_name}')
 
+    def only_run_dsv(self):
+
+        os.chdir(f"{os.path.expanduser('~/')}BIOVIA") # Getting into BIOVIA
+        os.chdir(f"{os.getcwd()}/{os.listdir()[0]}/bin") # Getting into DicoveryStudio2024/bin
+
+        file_name = glob.glob('DiscoveryStudio*')[0] # Getting DiscoveryStudio file
+        os.system(f'./{file_name}')
 
 
-dsvi = DSC_Installer()
-dsvi.bin_file_operations()
-dsvi.client_file_operations()
-dsvi.lp_installer_operations()
-dsvi.license_pack_operations()
-dsvi.libpng_operations()
-dsvi.run_dsv()
