@@ -39,7 +39,7 @@ python based script for easy installation of Discovery Studio Visualizer for lin
 
 - After installation you don't need to run install_and_run.py.
 
-- Instead just run `python just_run_dsv.py` from the Github folder.
+- Instead just run `python just_run_dsv.py` from the Github folder (or) there will be an `Discovery Studio Visualizer icon` in the `Desktop`. You can double-click that too, to open `Discovery Studio Visualizer`.
 
 
 
