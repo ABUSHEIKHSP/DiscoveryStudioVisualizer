@@ -14,7 +14,6 @@ class DSC_Installer():
     def bin_file_operations(self):
 
         self.bin_path = filedialog.askopenfilename() # Getting bin file
-        # self.bin_path = '/home/abu/Downloads/BIOVIA_DS2024Client.bin'
         os.system(f'chmod 744 {self.bin_path}') # Making it executable
         
         # Installing bin file
@@ -59,7 +58,7 @@ class DSC_Installer():
 
         # lp_config file needs c shell scripting language.
         # So we need to install tcsh in our system, which helps to execute the file
-        #os.system('sudo apt install tcsh')
+        os.system('sudo apt install tcsh')
         os.system('./lp_config') # Executing lp_config
 
         # Modifying lp_echovars
